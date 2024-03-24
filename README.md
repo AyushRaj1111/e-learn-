@@ -1,1 +1,1 @@
-# node_auth
+# check authorization using node.js
